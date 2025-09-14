@@ -10,7 +10,7 @@ tag:
 
 为数不多的 64 位 WPS 安卓专业版，不能登录账号，无在线功能，纯离线使用。
 
-官网上的版本上次更新还是在 2023 年，这个是从广东省省直单位WPS Office软件下载网站（https://xtbg.gdzwfw.gov.cn/wpspkg/wpsupdate/Download/index.html）下载的安卓系统VPN+JSAPI版本。
+官网上的版本上次更新还是在 2023 年，这个是从广东省省直单位WPS Office软件下载网站（<https://xtbg.gdzwfw.gov.cn/wpspkg/wpsupdate/Download/index.html>）下载的安卓系统VPN+JSAPI版本。
 
 包名：com.kingsoft.moffice_pro
 版本：13.37.6

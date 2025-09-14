@@ -25,7 +25,7 @@ icon: ri:links-line
 欢迎互换友链！如果你想要添加你的网站，告诉我你网站的名称、简介、链接和图标即可。[我的联系方式](/about.html#%F0%9F%93%A7%E8%81%94%E7%B3%BB%E6%88%91)
 
 本站相关信息：
-- 名称：`轻雨Purainty的小站`
+- 名称：`轻雨Purainity的小站`
 - 简介：`一位热爱钻研技术、分享经验的互联网爱好者`
 - 链接：`https://jibukeshi.dpdns.org`
 - 图标：`https://jibukeshi.dpdns.org/assets/avatar.png`

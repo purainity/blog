@@ -7,7 +7,7 @@ export default hopeTheme({
   hostname: "https://jibukeshi.dpdns.org",
 
   author: {
-    name: "轻雨Purainty",
+    name: "轻雨Purainity",
     url: "https://jibukeshi.dpdns.org",
   },
 
@@ -15,7 +15,11 @@ export default hopeTheme({
 
   docsDir: "src",
 
-  // 禁用“在 GitHub 上编辑此页”
+  // 关闭页面最后更新时间
+  lastUpdated: false,
+  // 关闭页面贡献者
+  contributors: false,
+  // 关闭“在 GitHub 上编辑此页”
   editLink: false,
 
   // 关闭“此页内容”
