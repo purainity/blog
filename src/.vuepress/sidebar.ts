@@ -8,6 +8,7 @@ export default sidebar([
     prefix: "/posts/",
     children: "structure",
   },
+  "/notes/",
   "/friendlinks",
   "/about",
 ]);
