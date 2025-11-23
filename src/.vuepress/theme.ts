@@ -22,9 +22,6 @@ export default hopeTheme({
   // 关闭“在 GitHub 上编辑此页”
   editLink: false,
 
-  // 关闭“此页内容”
-  toc: false,
-
   // 关闭页面底部的上/下一页
   prevLink: false,
   nextLink: false,

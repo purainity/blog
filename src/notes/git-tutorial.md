@@ -1,6 +1,5 @@
 ---
 article: false
-toc: true
 ---
 
 # Git 命令教程
