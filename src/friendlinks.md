@@ -20,6 +20,20 @@ icon: ri:links-line
   link="https://blog.b84f2246.top/"
 />
 
+<VPCard
+  title="QL的blog"
+  desc="额...我没什么想说的..."
+  logo="https://blog.qianlinjiaxi.qzz.io/wp-content/uploads/2025/08/bf8eea8cbc31b1ea1a5b5424a20f92c2.jpg"
+  link="https://blog.qianlinjiaxi.qzz.io/"
+/>
+
+<VPCard
+  title="Hehe的小站"
+  desc="收录一些小工具"
+  logo="https://heheqz.dpdns.org/picture/9cc9c42275a0b75b41541477a6f66954.jpeg"
+  link="https://heheqz.dpdns.org/"
+/>
+
 ## 友链申请
 
 欢迎互换友链！如果你想要添加你的网站，告诉我你网站的名称、简介、链接和图标即可。[我的联系方式](/about.html#%F0%9F%93%A7%E8%81%94%E7%B3%BB%E6%88%91)
