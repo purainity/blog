@@ -72,6 +72,7 @@ export default hopeTheme({
         link: "https://www.nodeloc.com/u/jibukeshi",
         icon: fs.readFileSync(path.resolve(__dirname, "public/assets/icon/NodeLoc.svg"), "utf-8")
       },
+      Reddit: "https://www.reddit.com/user/purainity/",
       Twitter: "https://twitter.com/purainity",
       Youtube: "https://youtube.com/@机不可失",
       Mastodon: {

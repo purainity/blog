@@ -34,6 +34,13 @@ icon: ri:links-line
   link="https://heheqz.dpdns.org/"
 />
 
+<VPCard
+  title="Runoneall Develop"
+  desc="我的开发记录、随笔、以及其他..."
+  logo="https://rdev.qzz.io/favicon.webp"
+  link="https://rdev.qzz.io/"
+/>
+
 ## 友链申请
 
 欢迎互换友链！如果你想要添加你的网站，告诉我你网站的名称、简介、链接和图标即可。[我的联系方式](/about.html#%F0%9F%93%A7%E8%81%94%E7%B3%BB%E6%88%91)
