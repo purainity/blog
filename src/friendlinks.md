@@ -1,6 +1,7 @@
 ---
 title: 友链
 article: false
+toc: false
 icon: ri:links-line
 ---
 
@@ -39,6 +40,13 @@ icon: ri:links-line
   desc="我的开发记录、随笔、以及其他..."
   logo="https://rdev.qzz.io/favicon.webp"
   link="https://rdev.qzz.io/"
+/>
+
+<VPCard
+  title="YingXinche的小站"
+  desc="像Minecraft的存档一样失去了很久..."
+  logo="https://r2.anran.xyz/avatar.jpg"
+  link="https://www.anran.xyz/"
 />
 
 ## 友链申请
