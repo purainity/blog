@@ -9,7 +9,7 @@ tag:
 
 # 自用小米平板 5 Pro (elish) 的精简 MIUI ROM
 
-![](https://opengraph.githubassets.com/79d113ccdd8dfaa22586cfdef713d6ac57880fbb73fbff3c03666c71ab101fef/jibukeshi/elish_optimize_MIUI_ROM)
+![](https://opengraph.githubassets.com/49f926871a0fb0ef65e467e97395c49d098230a77774f8c6202efa3552e9b1a9/purainity/elish_optimize_MIUI_ROM)
 
 # elish_V14.0.6_port_optimize
 

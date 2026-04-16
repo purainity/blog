@@ -4,6 +4,7 @@ category: 作品
 tag: 
   - Docker
   - iStoreOS
+  - 1Panel
   - 建站
 ---
 # 在 iStoreOS 宿主机的 Docker 容器中运行 1Panel V2
