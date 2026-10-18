@@ -49,6 +49,13 @@ icon: ri:links-line
   link="https://www.anran.xyz/"
 />
 
+<VPCard
+  title="CyanTea的小站"
+  desc="不定时写点东西（？"
+  logo="https://peg195-image.pages.dev/peg195.png"
+  link="https://www.allons-y.uk/"
+/>
+
 ## 友链申请
 
 欢迎互换友链！如果你想要添加你的网站，告诉我你网站的名称、简介、链接和图标即可。[我的联系方式](/about.html#%F0%9F%93%A7%E8%81%94%E7%B3%BB%E6%88%91)
